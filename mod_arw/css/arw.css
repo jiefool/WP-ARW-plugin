@@ -1,0 +1,198 @@
+.wrap .emptySequence a {
+	text-decoration:none;
+}
+.wrap .emptySequence a:hover {
+	text-decoration:underline;
+}
+.wrap .emptySequence .clear {
+	clear:both;
+}
+.wrap .emptySequence h2 {
+	line-height: 38px;
+}
+.wrap h3 {
+	font-size:20px;
+}
+.wrap .emptySequence h2 img {
+	padding-right:5px;
+}
+.wrap .emptySequence h3 {
+	font-size:20px;
+}
+.wrap .addSequence {
+	padding:30px;
+	border:1px solid #e0dede;
+	border-radius: 9px;
+	-moz-border-radius: 9px;
+	-webkit-border-radius: 9px;
+	background: #f9f9f9;
+	color:#888;
+}
+.wrap .addSequence strong {
+	font-size: 12px;
+}
+.wrap .emptySequence {
+	border:1px solid #e0dede;
+	border-radius: 9px;
+	-moz-border-radius: 9px;
+	-webkit-border-radius: 9px;
+	background: #f9f9f9;
+	color:#888;
+}
+.addSequence .field {
+	padding: 20px 0;
+}
+.addSequence .field label {
+	width:170px;
+	display: block;
+	float: left;
+	line-height:40px;
+	font-weight: bold;
+}
+.wrap .emptySequence input[type="text"] {
+	width:300px;
+	padding: 10px;
+}
+.wrap .emptySequence textarea, .wrap .addSequence textarea {
+	width:300px;
+	padding: 10px;
+}
+.addSequence .field input[type="text"] {
+	width:300px;
+	padding: 10px;
+}
+.addSequence .field select {
+	width: 300px;
+	height: 36px;
+	padding: 0 0 0 10px;
+}
+.addSequence .field input[type="submit"] {
+	padding: 10px 50px;
+	font-size:16px;
+	font-weight: bold;
+}
+.form .field {
+	padding: 15px 0;
+}
+.form .field label {
+	width:170px;
+	display: block;
+	float: left;
+	line-height:40px;
+	font-weight: bold;
+}
+.form .field input[type="text"] {
+	width:300px;
+	padding: 10px;
+}
+.form .field select {
+	width: 300px;
+	height: 36px;
+	padding: 0 0 0 10px;
+}
+.form .field input[type="submit"] {
+	padding: 10px 50px;
+	font-size:16px;
+	font-weight: bold;
+}
+.form .field input[type="button"] {
+	padding: 10px 50px;
+	font-size:16px;
+	font-weight: bold;
+}
+#test label {
+	width:170px;
+	display: block;
+	float: left;
+	line-height:40px;
+	font-weight: bold;
+}
+#test input[type="text"] {
+	width:300px;
+	padding: 10px;
+}
+#test select {
+	width: 300px;
+	height: 36px;
+	padding: 0 0 0 10px;
+}
+#test input[type="submit"] {
+	padding: 10px 50px;
+	font-size:16px;
+	font-weight: bold;
+}
+#template_form textarea {
+	width:550px;
+}
+.wrap .emptySequence .red {
+	color: #cc0000;
+}
+.wrap .emptySequence p.error {
+	margin-left:170px;
+	color:red;
+}
+.error {
+	color:red;
+}
+.wrap .hide {
+	display:none;
+	padding:10px;
+}
+.wrap .emptySequence .updated {
+	padding:10px;
+}
+.wrap .emptySequence .button, input.medium {
+	background: #7e7b7b;
+	border-radius:6px;
+	-moz-border-radius:6px;
+	-webkit-border-radius: 6px;
+	padding: 5px 10px;
+	height: auto;
+	color: #fff;
+}
+.wrap .emptySequence th {
+	text-align:center;
+}
+.wrap .emptySequence td {
+	height:30px;
+	vertical-align:middle;
+	text-align:center;
+	padding-left:20px;
+}
+.qtip-content {
+	word-wrap: break-word;
+}
+.marginleft20 {
+	margin-left:20px;
+}
+.dynamicDiv {
+	width:200px;
+	height:100px;
+	border:solid 1px #c0c0c0;
+	background-color:#e1e1e1;
+	font-size:11px;
+	font-family:verdana;
+	color:#000;
+	padding:5px;
+}
+label.label_adjust {
+	diplay:block;
+	clear:both;
+}
+label.label_responder_adjust {
+	diplay:block;
+	clear:both;
+}
+.form input.adjust {
+	float:left;
+	width: 280px;
+	margin-bottom:15px;
+	border: 1px solid #DFDFDF;
+	padding: 10px;
+}
+.form input.responder_adjust2 {
+	float:left;
+	width: 280px;
+	border: 1px solid #DFDFDF;
+	padding: 10px;
+}
