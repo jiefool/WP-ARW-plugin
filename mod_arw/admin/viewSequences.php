@@ -1,4 +1,4 @@
-<?php 
+<?php
 $p_id = $_GET['pid'];
 $u_id = $_GET['uid'];
 $page_no = $_GET['page_no'];
